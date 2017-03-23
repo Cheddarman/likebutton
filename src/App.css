@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.button {
+  width: 100px;
+  height: 50px;
+  border-radius: 5px;
+  background-color: #2B96DD;
+  color: #FFF;
+  box-shadow: 10px;
+  outline: none;
+  font-size: 18px;
+}
+
+.button:active {
+  box-shadow: 2px;
+}
